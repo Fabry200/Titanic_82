@@ -12,7 +12,7 @@ Questo progetto implementa una pipeline di machine learning per predire quali pa
 
 - **Caricamento e pulizia dei dati**  
 - **Codifica delle feature** (`Sex`, `Pclass`, ecc.)  
-- **Divisione train/test**  
+- **Divisione train/test**  80% 20%
 - **PCA** per riduzione dimensionale (due componenti scelte)  
 - **Implementazione custom di KNN**  
 - **Ricerca iperparametri** su _k_  
