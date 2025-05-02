@@ -4,19 +4,6 @@ Un classificatore K-Nearest Neighbors (KNN) su feature ridotte con PCA per predi
 
 ---
 
-## 📋 Indice
-
-1. [Descrizione del Progetto](#descrizione-del-progetto)  
-2. [Dataset](#dataset)  
-3. [Ambiente e Installazione](#ambiente-e-installazione)  
-4. [Utilizzo](#utilizzo)  
-5. [Metodologia](#metodologia)  
-6. [Risultati](#risultati)  
-7. [Struttura dei File](#struttura-dei-file)  
-8. [Contributi](#contributi)  
-9. [Licenza](#licenza)  
-10. [Contatti](#contatti)  
-
 ---
 
 ## 📝 Descrizione del Progetto
